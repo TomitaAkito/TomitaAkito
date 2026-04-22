@@ -1,7 +1,3 @@
-# Hi there! 👋
-
-I'm a developer / researcher. Here are the tools and languages I work with:
-
 ### 🛠 Tech Stack
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
