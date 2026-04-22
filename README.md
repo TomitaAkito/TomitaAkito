@@ -13,4 +13,4 @@
 ---
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomitaAkito&layout=compact&theme=vision-friendly-dark)](https://github.com/TomitaAkito)
+![言語グラフ](./metrics.plugin.languages.svg)
