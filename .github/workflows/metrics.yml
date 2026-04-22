@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  # 毎日日本時間の午前9時に自動更新する設定
+  schedule: [{cron: "0 0 * * *"}]
+  # 手動でも更新ボタンを押せるようにする設定
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # ステップ2で登録した金庫の鍵を使用
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # 生成する画像の名前
+          filename: metrics.plugin.languages.svg
+          
+          # 基本情報（星の数など）はオフにして、言語グラフだけを生成
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: percentage
