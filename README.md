@@ -13,4 +13,4 @@
 ---
 
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact&theme=vision-friendly-dark)](https://github.com/あなたのユーザー名)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomitaAkito&layout=compact&theme=vision-friendly-dark)](https://github.com/TomitaAkito)
