@@ -13,4 +13,4 @@
 ---
 
 ### 📊 GitHub Stats
-![言語グラフ](./metrics.plugin.languages.svg)
+![言語グラフ](https://raw.githubusercontent.com/TomitaAkito/TomitaAkito/main/metrics.plugin.languages.svg)
